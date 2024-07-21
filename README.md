@@ -1,5 +1,5 @@
 # SHREK
-An Experimental Bit Serial Architecture
+An Experimental CPU using a Bit Serial Architecture
 
 Bit Serial Computers have been around for 80 years - but nobody seemed to notice.
 
