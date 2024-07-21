@@ -103,7 +103,10 @@ From its outputs !Y0 to !Y7 we must add combinational logic to create the necess
 
 The sketch below shows what we are trying to achieve:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c9bf701e-baad-4ae1-a2dc-e85deaf86ed3)
+
+
+
 
 
 
